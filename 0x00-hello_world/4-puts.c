@@ -2,13 +2,11 @@
 /**
  * main - prints the string in the put function
  * Description: Using the puts function
- * this code prints the string in puts function
- *
+ * this code prints the string using puts function
  * Return: Always 0 (success)
  */
-int main(void);
+int main(void); 
 {
 	puts("/"Programming is like building a multilingual puzzle"");
-
 	return (0);
 }
